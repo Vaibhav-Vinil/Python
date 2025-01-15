@@ -1,2 +1,2 @@
-#The data of the customers are preprocessed into a RFM model (Recency,Frequency,Monetary) based on this data, the customers are segmented into 10 groups. This improved code gives a Silhouette score of 0.71.
+#The data of the customers are preprocessed into a RFM model (Recency,Frequency,Monetary) based on this data, the customers are segmented into 10 groups. This improved code gives a Silhouette score of 0.71. It analyzes different possible combinations of transformations that can be performed on the dataset attributes and selects the one that gives the best formed clusters for the final clustering.
 
